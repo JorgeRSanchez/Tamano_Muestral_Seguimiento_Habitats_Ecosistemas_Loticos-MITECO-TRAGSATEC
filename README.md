@@ -1,4 +1,4 @@
-# Tamano_Muestral_Seguimiento_Habitats_Ecosistemas_Loticos-MITECO-TRAGSATEC
+# Calculo del Tamano Muestral (MITECO-TRAGSATEC)
 
 Esta es una herramienta desarrollada para el calculo del tamaño muestral elaborada en el marco del proyecto “Establecimiento de un sistema estatal de seguimiento del Estado de Conservación de los Tipos de Hábitats en España ”. 
 
