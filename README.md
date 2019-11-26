@@ -12,3 +12,5 @@ Esta herramienta para el cálculo del tamaño muestral debe ser citada cuando se
 
 Sánchez-González J R & Mellado-Díaz A. 2019. Cálculo del Tamano Muestral (MITECO-TRAGSATEC) v1.0. En: Análisis de representatividad de las masas de agua incluidas en la categoría ‘ríos’ designadas por España en aplicación de la Directiva Marco del Agua de Sánchez-González J R & Mellado-Díaz A. Serie “Metodologías para el seguimiento del estado de conservación de los tipos de hábitat”. Ministerio para la Transición Ecológica. Madrid. DOI: https://doi.org/10.5281/zenodo.3551955
 
+
+
